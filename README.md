@@ -1,4 +1,17 @@
 # sql
+***************************************************************************************************************************************************************************************
+
+SQL (Structured Query Language): a programming language that is used to manage relational databases and perform operations on the data that they contain.
+Relational Database: a collection of data that is organized in well-defined relationships. The most common type of database.
+Query: a statement used to return data from a database.
+Table: a collection of related data in a database. Composed of rows and columns. Similar to a class in Python.
+Row: a single record in a database table. Each column represents an attribute of the record. Similar to an object in Python.
+Column: a single field in a database table. Each row contains values in each column. Similar to a Python object’s attributes.
+Schema: a blueprint of the construction of the tables in a database and how they relate to one another.
+
+***************************************************************************************************************************************************************************************
+
+
 Writing SQL in a Text Editor
 Up until now, we've been executing our SQL commands directly in the terminal. It is likely, however, that you will find yourself writing SQL in a file and executing that file in the context of your database. The more complex our databases become, the more tables we add and the more advanced the queries we run against them, the harder it will become to keep track of it all in the sqlite3 prompt in our terminal.
 
